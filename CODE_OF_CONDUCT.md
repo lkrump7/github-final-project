@@ -34,6 +34,10 @@ This Code of Conduct applies within project spaces and in public spaces when an 
 
 If you experience or witness unacceptable behavior, report it to the project maintainers through the repository issue tracker or another maintainer-designated channel. All reports should be reviewed promptly and handled fairly.
 
+## Enforcement Guidelines
+
+Maintainers may take any action they deem appropriate in response to unacceptable behavior, including warnings, temporary bans, permanent bans, comment removal, issue locking, or pull request rejection. Enforcement decisions should be made in a fair, consistent, and community-focused manner.
+
 ## Consequences
 
 Contributors who do not follow this Code of Conduct may face warnings, temporary restrictions, or permanent removal from the community, depending on the severity and frequency of the behavior.
