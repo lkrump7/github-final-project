@@ -1,18 +1,19 @@
-﻿curl.exe -s https://api.github.com/repos/lkrump7/mcino-Introduction-to-Git-and-GitHub/branches/main
+curl.exe -s https://api.github.com/repos/lkrump7/mcino-Introduction-to-Git-and-GitHub/branches/main
 {
     "name":  "main",
     "protected":  false,
-    "commit.sha":  "ad95b0abe521c61effc692e83d5babd5fbf25910"
+    "commit.sha":  "56e37953ec57ba1ef25dde194ed9f0ef39ab60fa"
 }
 curl.exe -s https://api.github.com/repos/lkrump7/mcino-Introduction-to-Git-and-GitHub/branches/bug-fix-typo
 {
     "name":  "bug-fix-typo",
     "protected":  false,
-    "commit.sha":  "159b77205a77acda01247dcc66ae21357b50c995"
+    "commit.sha":  "56e37953ec57ba1ef25dde194ed9f0ef39ab60fa"
 }
 curl.exe -s https://api.github.com/repos/lkrump7/mcino-Introduction-to-Git-and-GitHub/branches/bug-fix-revert
 {
     "name":  "bug-fix-revert",
     "protected":  false,
-    "commit.sha":  "0de56e1e65158b237e3d4d03ecdf88dc7930bd4e"
+    "commit.sha":  "8734e153cb66ee3cf5cd31e39fa7e3286f9e0ee6"
 }
+
