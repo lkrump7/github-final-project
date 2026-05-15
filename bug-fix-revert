@@ -1,0 +1,7 @@
+﻿curl.exe -s https://api.github.com/repos/lkrump7/mcino-Introduction-to-Git-and-GitHub/pulls/1
+{
+    "html_url":  "https://github.com/lkrump7/mcino-Introduction-to-Git-and-GitHub/pull/1",
+    "state":  "open",
+    "head.ref":  "bug-fix-revert",
+    "head.repo.full_name":  "lkrump7/mcino-Introduction-to-Git-and-GitHub"
+}
